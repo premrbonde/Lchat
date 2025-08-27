@@ -1,0 +1,9 @@
+[
+  { "term": "lol", "expansion": "laughing out loud" },
+  { "term": "brb", "expansion": "be right back" },
+  { "term": "omw", "expansion": "on my way" },
+  { "term": "btw", "expansion": "by the way" },
+  { "term": "imo", "expansion": "in my opinion" },
+  { "term": "ttyl", "expansion": "talk to you later" },
+  { "term": "idk", "expansion": "I don't know" }
+]
